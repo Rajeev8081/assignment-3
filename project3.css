@@ -1,0 +1,74 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.background-image{
+    background-image:url(pexels-maxyne-barcel-10402282\ 1.png)  ;
+    height: 500px;
+    width: 800px;
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+    margin: 50px 0 0 300px;
+    align-items: center;
+    border-radius: 40px;
+
+
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.background-image  ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;   
+}
+.background-image ul li{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    color: yellow;
+}
+.first-button{color: white;
+    background-color: red;
+    height: 50px;
+    width: 80px;
+    border-radius: 8px;
+    font-size: larger;
+
+}
+.second-button{color: white;
+    background-color: red;
+    height: 40px;
+    width: 130px;
+    border-radius: 8px;
+
+}
+main{
+    align-items: center;
+    justify-content: center;
+    margin: 10x 200px 0 250px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+main h1{
+    font-weight: 4000;
+    font-size: 50px;
+    color: yellow;
+    
+}
+footer div{
+    padding: 0 0px 0px 640px;
+   
+}
+   
+
+
+
